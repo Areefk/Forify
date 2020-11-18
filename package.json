@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Areefk/Forify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Areefk/Forify/issues"
+  },
+  "homepage": "https://github.com/Areefk/Forify#readme",
+  "devDependencies": {
+    "webpack": "^5.5.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
